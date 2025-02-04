@@ -17,3 +17,4 @@ Como Funciona:
 + O back-end oferece uma API RESTful para manipulação dos dados.
 + O front-end em React consome essa API para realizar operações CRUD, permitindo uma interação dinâmica e fluida.
 
+![Interface sem a lista](/Project page/Screenshot_1.png)
